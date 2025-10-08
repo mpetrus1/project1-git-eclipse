@@ -4,6 +4,7 @@ public class Principal {
 		System.out.println("Hola mundo java-git");
 		System.out.println("Segon missatge");
 		System.out.println("Tercer missatge");
+		System.out.println("Quart missatge");
 		
 	}
 }
